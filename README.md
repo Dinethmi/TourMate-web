@@ -63,3 +63,27 @@ The application was developed as an academic group project following software de
 * Destination Management
 * Authentication & Authorization
 * Database Management
+---
+## 🗂 Project Structure
+  TourMate/
+│
+├── assets/
+│   ├── css/
+│   ├── js/
+│   ├── images/
+│
+├── database/
+│   └── tourmate.sql
+│
+├── includes/
+│
+├── pages/
+│
+├── uploads/
+│
+├── index.php
+├── login.php
+├── register.php
+├── booking.php
+├── packages.php
+└── README.md
