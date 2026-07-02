@@ -16,8 +16,9 @@ The application was developed as an academic group project following software de
 
 ---
 
-| 👤 **User Features** | 👨‍💼 **Admin Features** |
-| **━━━━━━━━━━━━━━━━━━** | **━━━━━━━━━━━━━━━━━━** |
+| 👤 User Features | 👨‍💼 Admin Features |
+|:-----------------|:-------------------|
+| ---------------- | ------------------ |
 | User Registration | Manage Tour Packages |
 | User Login & Authentication | Add New Destinations |
 | Browse Tour Packages | Update Tour Information |
