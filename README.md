@@ -14,38 +14,16 @@ The application was developed as an academic group project following software de
 
   ## ✨ Features
 
-## ✨ Features
-
 ---
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-<h3 style="border-bottom:2px solid #d0d7de; padding-bottom:6px;">👤 User Features</h3>
-
-- User Registration
-- User Login & Authentication
-- Browse Tour Packages
-- View Destination Details
-- Search Available Tours
-- Book Tour Packages
-- View Booking History
-- Update User Profile
-
-</td>
-
-<td valign="top" width="50%">
-
-<h3 style="border-bottom:2px solid #d0d7de; padding-bottom:6px;">👨‍💼 Admin Features</h3>
-
-- Manage Tour Packages
-- Add New Destinations
-- Update Tour Information
-- Delete Tour Packages
-- Manage User Bookings
-- Manage Customer Information
-
-</td>
-</tr>
-</table>
+| 👤 **User Features** | 👨‍💼 **Admin Features** |
+|:---------------------|:------------------------|
+| **━━━━━━━━━━━━━━━━━━** | **━━━━━━━━━━━━━━━━━━** |
+| User Registration | Manage Tour Packages |
+| User Login & Authentication | Add New Destinations |
+| Browse Tour Packages | Update Tour Information |
+| View Destination Details | Delete Tour Packages |
+| Search Available Tours | Manage User Bookings |
+| Book Tour Packages | Manage Customer Information |
+| View Booking History | |
+| Update User Profile | |
