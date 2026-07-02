@@ -7,25 +7,39 @@ The application was developed as an academic group project following software de
 
 * Simplify the travel booking process.
 * Provide users with detailed tour package information.
+* Enable online tour package reservations.
+* Improve travel management through a centralized system.
+* Deliver a responsive and user-friendly web experience.
 
 
   ## ✨ Features
 
-  **User Features**
-* User Registration
-* User Login & Authentication
-* Browse Tour Packages
-* View Destination Details
-* Search Available Tours
-* Book Tour Packages
-* View Booking History
-* Update User Profile
+<table>
+<tr>
+<td valign="top" width="50%">
 
+### 👤 User Features
+- User Registration
+- User Login & Authentication
+- Browse Tour Packages
+- View Destination Details
+- Search Available Tours
+- Book Tour Packages
+- View Booking History
+- Update User Profile
 
-  **Admin Features**
-* Manage Tour Packages
-* Add New Destinations
-* Update Tour Information
-* Delete Tour Packages
-* Manage User Bookings
-* Manage Customer Information
+</td>
+
+<td valign="top" width="50%">
+
+### 👨‍💼 Admin Features
+- Manage Tour Packages
+- Add New Destinations
+- Update Tour Information
+- Delete Tour Packages
+- Manage User Bookings
+- Manage Customer Information
+
+</td>
+</tr>
+</table>
