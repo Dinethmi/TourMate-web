@@ -65,9 +65,7 @@ The application was developed as an academic group project following software de
 * Database Management
 ---
 ## 📸 Screenshots
-## 🏠 Home Page
-
-<img src="images/home-page.png" alt="Home Page" width="1000">
+<img src="./images/home-page.png" alt="Home Page" width="1000">
 ---
 ## 🗂 Project Structure
 ```text
