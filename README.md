@@ -47,6 +47,7 @@ The application was developed as an academic group project following software de
 </td>
 </tr>
 </table>
+
 ---
 ## 🛠 Technologies Used
 
