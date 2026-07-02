@@ -67,6 +67,20 @@ The application was developed as an academic group project following software de
 ## 🗂 Project Structure
 ## 📂 Project Structure
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/screenshot-home.png)
+
+### Hotels Page
+![Hotels Page](screenshots/screenshot-hotels.png)
+
+### Hotel Details Page
+![Hotel Details Page](screenshots/screenshot-details.png)
+
+### Booking Page
+![Booking Page](screenshots/screenshot-booking.png)
+
 ```text
 TourMate/
 │
