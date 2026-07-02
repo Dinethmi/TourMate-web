@@ -89,6 +89,5 @@ TourMate/
 ├── register.php
 ├── booking.php
 ├── packages.php
-├── config.php
-└── README.md
+└── config.php
 ```
