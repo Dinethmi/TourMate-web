@@ -13,7 +13,7 @@ The application was developed as an academic group project following software de
 
   ## ✨ Features
 
-  ### User Features
+  **User Features**
 * User Registration
 * User Login & Authentication
 * Browse Tour Packages
@@ -23,7 +23,8 @@ The application was developed as an academic group project following software de
 * View Booking History
 * Update User Profile
 
-  ###Admin Features
+
+  **Admin Features**
 * Manage Tour Packages
 * Add New Destinations
 * Update Tour Information
