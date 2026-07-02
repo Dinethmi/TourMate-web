@@ -65,7 +65,37 @@ The application was developed as an academic group project following software de
 * Database Management
 ---
 ## 📸 Screenshots
-<img src="./images/home-page.png" alt="Home Page" width="1000">
+# 📸 Application Screenshots
+
+## 🏠 Home Page
+
+<p align="center">
+  <img src="./images/home-page.png" alt="Home Page" width="1000"/>
+</p>
+
+---
+
+## 🏨 Hotels Page
+
+<p align="center">
+  <img src="./images/hotels-page.png" alt="Hotels Page" width="1000"/>
+</p>
+
+---
+
+## 🏨 Hotel Details Page
+
+<p align="center">
+  <img src="./images/hotel-details-page.png" alt="Hotel Details Page" width="1000"/>
+</p>
+
+---
+
+## 📅 Booking Page
+
+<p align="center">
+  <img src="./images/booking-page.png" alt="Booking Page" width="1000"/>
+</p>
 ---
 ## 🗂 Project Structure
 ```text
