@@ -65,21 +65,9 @@ The application was developed as an academic group project following software de
 * Database Management
 ---
 ## 📸 Screenshots
-## Home Page
+## 🏠 Home Page
 
-<img width="1000" alt="Home Page" src="https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" />
-
-## Hotels Page
-
-<img width="1000" alt="Hotels Page" src="https://github.com/user-attachments/assets/yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy" />
-
-## Hotel Details Page
-
-<img width="1000" alt="Hotel Details Page" src="https://github.com/user-attachments/assets/zzzzzzzz-zzzz-zzzz-zzzz-zzzzzzzzzzzz" />
-
-## Booking Page
-
-<img width="1000" alt="Booking Page" src="https://github.com/user-attachments/assets/aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa" />
+<img src="images/home-page.png" alt="Home Page" width="1000">
 ---
 ## 🗂 Project Structure
 ```text
