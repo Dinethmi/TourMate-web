@@ -47,3 +47,18 @@ The application was developed as an academic group project following software de
 </td>
 </tr>
 </table>
+---
+## 🛠 Technologies Used
+
+**Frontend : HTML, 5CSS3, JavaScript
+**Backend  : PHP
+**Database : MySQL
+**Development Tools : Visual Studio Code, GitHub
+---
+📚 Project Modules
+* User Management
+* Tour Package Management
+* Booking Management
+* Destination Management
+* Authentication & Authorization
+* Database Management
