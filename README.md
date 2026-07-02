@@ -56,7 +56,7 @@ The application was developed as an academic group project following software de
 * **Database**: MySQL
 * **Development Tools**: Visual Studio Code, GitHub
 ---
-📚 Project Modules
+## 📚 Project Modules
 * User Management
 * Tour Package Management
 * Booking Management
