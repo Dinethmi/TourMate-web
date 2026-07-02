@@ -64,28 +64,24 @@ The application was developed as an academic group project following software de
 * Authentication & Authorization
 * Database Management
 ---
-## 🗂 Project Structure
-## 📂 Project Structure
-
 ## 📸 Screenshots
-
-# Screenshots
-
 ## Home Page
 
-<img src="images/home-page.png" alt="Home Page" width="1000">
+<img width="1000" alt="Home Page" src="https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx" />
 
 ## Hotels Page
 
-<img src="images/hotels-page.png" alt="Hotels Page" width="1000">
+<img width="1000" alt="Hotels Page" src="https://github.com/user-attachments/assets/yyyyyyyy-yyyy-yyyy-yyyy-yyyyyyyyyyyy" />
 
 ## Hotel Details Page
 
-<img src="images/hotel-details-page.jpg" alt="Hotel Details Page" width="1000">
+<img width="1000" alt="Hotel Details Page" src="https://github.com/user-attachments/assets/zzzzzzzz-zzzz-zzzz-zzzz-zzzzzzzzzzzz" />
 
 ## Booking Page
 
-<img src="images/booking-page.png" alt="Booking Page" width="1000">
+<img width="1000" alt="Booking Page" src="https://github.com/user-attachments/assets/aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa" />
+---
+## 🗂 Project Structure
 ```text
 TourMate/
 │
