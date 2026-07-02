@@ -69,18 +69,23 @@ The application was developed as an academic group project following software de
 
 ## 📸 Screenshots
 
-### Home Page
-![Home Page](screenshots/screenshot-home.png)
+# Screenshots
 
-### Hotels Page
-![Hotels Page](screenshots/screenshot-hotels.png)
+## Home Page
 
-### Hotel Details Page
-![Hotel Details Page](screenshots/screenshot-details.png)
+<img src="images/home-page.png" alt="Home Page" width="1000">
 
-### Booking Page
-![Booking Page](screenshots/screenshot-booking.png)
+## Hotels Page
 
+<img src="images/hotels-page.png" alt="Hotels Page" width="1000">
+
+## Hotel Details Page
+
+<img src="images/hotel-details-page.jpg" alt="Hotel Details Page" width="1000">
+
+## Booking Page
+
+<img src="images/booking-page.png" alt="Booking Page" width="1000">
 ```text
 TourMate/
 │
