@@ -65,12 +65,15 @@ The application was developed as an academic group project following software de
 * Database Management
 ---
 ## 🗂 Project Structure
-  TourMate/
+## 📂 Project Structure
+
+```text
+TourMate/
 │
 ├── assets/
 │   ├── css/
 │   ├── js/
-│   ├── images/
+│   └── images/
 │
 ├── database/
 │   └── tourmate.sql
@@ -86,4 +89,6 @@ The application was developed as an academic group project following software de
 ├── register.php
 ├── booking.php
 ├── packages.php
+├── config.php
 └── README.md
+```
