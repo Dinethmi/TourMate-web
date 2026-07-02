@@ -14,15 +14,14 @@ The application was developed as an academic group project following software de
 
   ## ✨ Features
 
-## ✨ Features
-
----
+<h2>✨ Features</h2>
+<hr>
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 👤 User Features
+<h3>👤 User Features</h3>
 
 - User Registration
 - User Login & Authentication
@@ -37,7 +36,7 @@ The application was developed as an academic group project following software de
 
 <td valign="top" width="50%">
 
-### 👨‍💼 Admin Features
+<h3>👨‍💼 Admin Features</h3>
 
 - Manage Tour Packages
 - Add New Destinations
