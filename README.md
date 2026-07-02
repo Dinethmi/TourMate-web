@@ -5,7 +5,8 @@ The application was developed as an academic group project following software de
 
 ## 🎯 Objectives
 
-* Simplify the travel booking process.* Provide users with detailed tour package information.
+* Simplify the travel booking process.
+* Provide users with detailed tour package information.
 
 
   ## ✨ Features
