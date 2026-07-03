@@ -64,7 +64,8 @@ The application was developed as an academic group project following software de
 * Authentication & Authorization
 * Database Management
 ---
-<img width="1919" height="986" alt="Home Page" src="PASTE_HOME_PAGE_USER_ATTACHMENT_URL_HERE" />
+![Uploading screencapture-localhost-8080-2026-07-03-03_17_40.png…]()
+
 
 ## 🗂 Project Structure
 ```text
