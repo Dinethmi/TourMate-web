@@ -64,7 +64,7 @@ The application was developed as an academic group project following software de
 * Authentication & Authorization
 * Database Management
 ---
-<img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/f7a70f58-3266-4624-92ca-b39253962cba" />
+<img width="1919" height="986" alt="Home Page" src="PASTE_HOME_PAGE_USER_ATTACHMENT_URL_HERE" />
 
 ## 🗂 Project Structure
 ```text
