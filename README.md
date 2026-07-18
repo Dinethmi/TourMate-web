@@ -4,6 +4,7 @@
 The application was developed as an academic group project following software development best practices, providing practical experience in full-stack web development, database management, and collaborative teamwork.
 
 ---
+![Uploading WhatsApp Image 2026-07-17 at 20.57.15.jpeg…]()
 
 ## 🎯 Objectives
 
