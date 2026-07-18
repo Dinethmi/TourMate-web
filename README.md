@@ -66,7 +66,6 @@ The application was developed as an academic group project following software de
 * Database Management
 ---
 <img width="1901" height="910" alt="Screenshot 2026-07-03 025331" src="https://github.com/user-attachments/assets/00277dc8-eae1-480a-86d7-483191dd7dbf" />
-<img width="1920" height="3918" alt="screencapture-localhost-8080-2026-07-03-03_17_40" src="https://github.com/user-attachments/assets/1cbab990-ceb2-445f-8a9d-e076b70a8e5b" />
 <img width="1920" height="1691" alt="screencapture-localhost-8080-hotels-2026-07-03-03_07_46" src="https://github.com/user-attachments/assets/c22ec1ed-1cb4-451d-a90b-b6abe21a1e2f" />
 <img width="1920" height="1931" alt="screencapture-localhost-8080-users-hotels-11-2026-07-03-03_19_52" src="https://github.com/user-attachments/assets/68b1d3dd-c439-4b09-9b48-6f8c5b2f5bbf" />
 
