@@ -4,7 +4,7 @@
 The application was developed as an academic group project following software development best practices, providing practical experience in full-stack web development, database management, and collaborative teamwork.
 
 ---
-![Uploading WhatsApp Image 2026-07-17 at 20.57.15.jpeg…]()
+
 
 ## 🎯 Objectives
 
@@ -65,7 +65,8 @@ The application was developed as an academic group project following software de
 * Authentication & Authorization
 * Database Management
 ---
-![Uploading screencapture-localhost-8080-2026-07-03-03_17_40.png…]()
+<img width="1279" height="960" alt="WhatsApp Image 2026-07-17 at 20 57 15" src="https://github.com/user-attachments/assets/1d67a7d0-1435-4c27-a446-bca82f68dfe4" />
+
 
 
 ## 🗂 Project Structure
